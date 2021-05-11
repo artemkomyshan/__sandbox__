@@ -1,6 +1,6 @@
 # __sandbox__
 
-
+```
 #pragma once
 
 #include <boost/range/algorithm_ext/insert.hpp>
@@ -29,3 +29,4 @@ std::vector<T> vector(const Range& range)
 }
 
 }
+```
